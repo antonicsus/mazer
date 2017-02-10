@@ -1,0 +1,87 @@
+body {
+  background-color: #FFF;
+  color: #777;
+	font-family: 'Times New Roman';
+  width: 640px;
+  padding: 0px 10px;
+  margin: 0px auto;
+}
+
+h1, h2 {
+  color: hotpink;
+  padding: 10px 40px;
+}
+
+h1 {
+  padding: 0px;
+  padding-top: 5px;
+  text-align: center;
+}
+
+p {
+  padding: 0px 60px;
+}
+
+ol {
+  margin: 0px 10px;
+  padding:0px 10px;
+}
+
+a {
+  display:block;
+  width: 20%;
+  color: white;
+  text-align: center;
+  background-color: hotpink;
+  text-decoration: none;
+
+  padding: 10px;
+  margin: 40px auto;
+}
+
+a:hover {
+  padding: 14px;
+  margin: 36px auto;
+}
+
+footer {
+  text-align: center;
+  color: #DDD;
+  padding-top: 30px;
+}
+
+.math {
+  color: hotpink;
+}
+
+#alg {
+  margin: 10px 60px;
+}
+
+#maze {
+  width: 100%;
+  padding: 40px 120px;
+  margin: 20px 0px;
+}
+
+button {
+  display: block;
+  height: 50px;
+  width: 50px;
+  padding: 0;
+  border: none;
+  margin: 0 auto;
+}
+
+button:focus {
+  outline:0;
+}
+
+img {
+  margin-top: 0px;
+  width: 100%;
+}
+
+#reset img {
+  width: inherit;
+}
