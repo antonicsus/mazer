@@ -1,3 +1,4 @@
 # mazer
 
-Just a simple maze-making webpage.
+Simple maze-making website.
+Uses canvas to draw a labyrinth.
